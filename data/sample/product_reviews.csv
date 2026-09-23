@@ -1,0 +1,121 @@
+review_id,product,rating,sentiment,helpful_votes,verified,comment_length
+1,Monitor Stand,4,positive,17,false,87
+2,Desk Lamp,5,positive,18,true,
+3,Monitor Stand,1,positive,0,true,
+4,Monitor Stand,5,positive,5,true,85
+5,Monitor Stand,5,positive,3,true,756
+6,Monitor Stand,2,positive,6,false,610
+7,Notebook,1,positive,7,true,
+8,Monitor Stand,2,positive,6,false,415
+9,Monitor Stand,3,positive,0,true,49
+10,Monitor Stand,4,positive,7,true,354
+11,Monitor Stand,5,positive,8,true,
+12,Desk Lamp,5,positive,20,false,
+13,Desk Lamp,5,positive,13,false,65
+14,Desk Lamp,5,neutral,5,true,305
+15,Notebook,4,positive,8,true,437
+16,Monitor Stand,4,positive,4,true,367
+17,Desk Lamp,3,positive,10,false,415
+18,Monitor Stand,5,positive,0,true,757
+19,Desk Lamp,4,positive,14,true,
+20,Monitor Stand,2,positive,2,true,623
+21,Notebook,5,positive,0,true,305
+22,Notebook,1,positive,0,true,41
+23,Desk Lamp,3,positive,0,true,
+24,Desk Lamp,5,negative,7,true,290
+25,Desk Lamp,4,positive,4,true,
+26,Monitor Stand,4,positive,1,true,
+27,Monitor Stand,2,neutral,13,true,249
+28,Notebook,1,positive,10,true,243
+29,Desk Lamp,1,positive,4,true,
+30,Desk Lamp,5,positive,1,true,373
+31,Desk Lamp,5,positive,0,false,
+32,Desk Lamp,2,positive,1,false,
+33,Notebook,2,positive,25,false,754
+34,Notebook,4,neutral,4,false,698
+35,Monitor Stand,4,positive,17,true,
+36,Notebook,4,positive,0,true,460
+37,Notebook,5,positive,3,true,
+38,Monitor Stand,5,positive,0,false,
+39,Desk Lamp,5,positive,3,false,82
+40,Notebook,3,positive,21,true,856
+41,Notebook,5,positive,9,true,27
+42,Monitor Stand,1,positive,0,false,
+43,Notebook,4,positive,0,true,815
+44,Notebook,5,negative,0,true,
+45,Notebook,5,positive,21,true,521
+46,Notebook,3,positive,1,true,682
+47,Monitor Stand,2,positive,0,true,150
+48,Monitor Stand,5,neutral,8,false,600
+49,Notebook,5,positive,0,false,64
+50,Notebook,2,positive,7,false,342
+51,Monitor Stand,2,positive,0,true,93
+52,Notebook,2,positive,5,true,353
+53,Monitor Stand,3,positive,13,false,771
+54,Monitor Stand,3,positive,13,true,753
+55,Desk Lamp,5,positive,4,true,695
+56,Notebook,2,positive,12,true,144
+57,Notebook,5,positive,0,true,837
+58,Notebook,5,negative,5,true,
+59,Monitor Stand,5,positive,0,true,267
+60,Monitor Stand,5,positive,0,false,791
+61,Desk Lamp,2,positive,0,false,404
+62,Desk Lamp,4,neutral,0,true,602
+63,Notebook,1,positive,0,true,
+64,Monitor Stand,1,positive,14,false,898
+65,Notebook,5,positive,4,true,891
+66,Monitor Stand,4,neutral,0,false,618
+67,Notebook,4,positive,14,false,
+68,Notebook,3,positive,5,false,167
+69,Monitor Stand,2,positive,2,true,758
+70,Desk Lamp,5,neutral,0,true,255
+71,Monitor Stand,4,neutral,4,true,267
+72,Desk Lamp,4,positive,0,true,711
+73,Desk Lamp,5,positive,9,false,
+74,Notebook,5,positive,0,true,318
+75,Desk Lamp,5,positive,0,true,
+76,Desk Lamp,3,positive,0,false,
+77,Desk Lamp,1,positive,0,true,
+78,Notebook,2,positive,2,true,
+79,Monitor Stand,3,negative,0,true,
+80,Monitor Stand,3,positive,11,true,540
+81,Notebook,3,neutral,0,true,767
+82,Notebook,5,positive,17,false,
+83,Desk Lamp,5,positive,1,true,488
+84,Desk Lamp,1,positive,0,true,
+85,Monitor Stand,5,positive,0,true,
+86,Notebook,2,positive,0,true,297
+87,Monitor Stand,4,negative,0,false,848
+88,Desk Lamp,5,positive,2,true,
+89,Monitor Stand,5,positive,0,true,
+90,Monitor Stand,4,positive,0,false,786
+91,Monitor Stand,5,positive,9,true,194
+92,Notebook,5,positive,11,true,50
+93,Desk Lamp,1,positive,0,true,561
+94,Monitor Stand,4,positive,21,true,764
+95,Notebook,5,negative,4,true,491
+96,Notebook,4,positive,0,true,
+97,Notebook,1,positive,1,true,
+98,Monitor Stand,5,positive,16,true,259
+99,Desk Lamp,5,positive,12,true,731
+100,Notebook,5,positive,4,true,777
+101,Notebook,3,positive,10,true,131
+102,Desk Lamp,5,positive,0,true,420
+103,Desk Lamp,1,neutral,20,true,331
+104,Desk Lamp,5,positive,11,false,486
+105,Monitor Stand,5,positive,0,true,249
+106,Notebook,5,positive,10,true,
+107,Monitor Stand,1,positive,5,false,671
+108,Notebook,5,positive,5,true,209
+109,Notebook,5,positive,0,true,
+110,Desk Lamp,5,positive,6,true,244
+111,Notebook,4,positive,0,true,
+112,Monitor Stand,5,positive,4,true,
+113,Desk Lamp,1,positive,4,true,373
+114,Notebook,3,positive,11,false,626
+115,Notebook,5,positive,3,true,213
+116,Notebook,3,negative,2,false,
+117,Desk Lamp,1,positive,11,false,
+118,Notebook,4,positive,5,true,580
+119,Monitor Stand,3,positive,5,false,586
+120,Notebook,3,positive,0,false,475
